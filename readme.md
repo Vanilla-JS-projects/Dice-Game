@@ -14,5 +14,6 @@ GAME RULES:
 - The player looses his current score when one of them is a 1.
 
 
+Note: It was done as an assignment for a course. 
 
 
