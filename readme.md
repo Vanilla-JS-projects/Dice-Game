@@ -1,5 +1,5 @@
 
-### Check it out @ https://dice-game-js.herokuapp.com/
+https://dice-game-js.herokuapp.com/
 
 
 
